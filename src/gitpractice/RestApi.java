@@ -16,6 +16,7 @@ public class RestApi {
 public void deleteTwitter()
 {
 	System.out.println("deleteTwitter");
+	System.out.println("deleteTwitter");
 }
 
 }
